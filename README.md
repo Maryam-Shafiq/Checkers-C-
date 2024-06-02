@@ -54,7 +54,5 @@ This is a simple implementation of a Checkers game in C++. The game allows two p
 5. Push to the branch (`git push origin feature-branch`).
 6. Create a new Pull Request.
 
-## Contact
 
-For any questions or suggestions, please open an issue or contact the project maintainers.
 
