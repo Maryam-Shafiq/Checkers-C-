@@ -44,9 +44,6 @@ This is a simple implementation of a Checkers game in C++. The game allows two p
   - 4: Lower Right
 - The game will continue until one player has no pieces left or no valid moves.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
