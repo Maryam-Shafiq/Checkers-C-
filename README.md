@@ -25,13 +25,13 @@ This is a simple implementation of a Checkers game in C++. The game allows two p
 3. Compile the game:
 
     ```bash
-    g++ -o checkers Checkers.cpp
+    g++ -o Checkers Checkers.cpp
     ```
 
 4. Run the game:
 
     ```bash
-    ./checkers
+    ./Checkers
     ```
 
 ## Usage
