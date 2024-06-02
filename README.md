@@ -13,13 +13,13 @@ This is a simple implementation of a Checkers game in C++. The game allows two p
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/Maryam-Shafiq/checkers-game.git
+    git clone https://github.com/Maryam-Shafiq/Checkers-C-.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd checkers-game
+    cd Checkers-C-
     ```
 
 3. Compile the game:
